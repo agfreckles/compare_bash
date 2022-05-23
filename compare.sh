@@ -13,3 +13,4 @@ else
 echo "X is equal to Y"
 
 fi
+# https://github.com/agfreckles/compare_bash/blob/main/compare.sh
